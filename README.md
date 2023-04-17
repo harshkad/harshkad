@@ -1,1 +1,5 @@
-Hey there in front of screen I'm Harsh, student from India a-and I love creating something on internet beyond solving problems of math's, aaaand ok so I heavily use GitHub and literally everything about myself or work I have done in past will be here on my profile so do connect with me, otherwise contact me through my [email](mailto:hello.harshkd@gmail.com) I always reply, b-bye
+> "A ship in harbor is safe, but that's not why ships are built." - someone
+> 
+> "But that is exactly why harbors are built." - someone 2
+
+contact me through my [email](mailto:hello.harshkd@gmail.com) I always reply, b-bye
