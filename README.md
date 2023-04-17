@@ -1,5 +1,3 @@
-> "A ship in harbor is safe, but that's not why ships are built." - someone
-> 
-> "But that is exactly why harbors are built." - someone 2
+> after accomplishing a goal just look around to see whether you lost something or someone 
 
-contact me through my [email](mailto:hello.harshkd@gmail.com) I always reply, b-bye
+donate on [bmc](http://bmc.link/helloharsh) and contact me through my [email](mailto:hello.harshkd@gmail.com) I always reply, b-bye
