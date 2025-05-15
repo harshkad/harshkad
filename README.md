@@ -3,5 +3,6 @@
 </p>
 
 <p align="center">
-  contact me through my <a href="mailto:hello.harshkd@gmail.com">email</a>, I always reply. B-bye 😗
+  here's my <a href="https://www.linkedin.com/in/harshkad/">linkedln</a> and here's my <a href="mailto:hello.harshkd@gmail.com">email</a><br>
+  just text me anywhere
 </p>
