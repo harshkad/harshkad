@@ -8,7 +8,7 @@ Software Engineer Intern @Jindal Steel and currently I'm working on a large lang
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Memory Agent** | Chatbot that extracts memories as you use to give more personalised experience | [GitHub](https://github.com/harshkad/MemoryAgent/tree/neon-database) |
+| **Memory Agent** | Chatbot that extracts memories as you use to give more personalised experience | [GitHub](https://github.com/harshkad/MemoryAgent) |
 | **House Price Prediction** | Let's you predict price of your property locally (India specific) | [GitHub](https://github.com/harshkad/HousePricePrediction) |
 | **Bank Transaction Visualizer** | Python web app that turns bank text alerts into interactive financial dashboard | [GitHub](https://github.com/harshkad/BankTransactionVisualizer) |
 | **Bank Transaction Copilot** | A web app that let's you chat with your transaction history — Upgraded version of Bank Transaction Visualizer | [GitHub](https://github.com/harshkad/BankTransactionCopilot) |
