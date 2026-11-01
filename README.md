@@ -22,4 +22,5 @@ Software Engineer Intern @Jindal Steel and currently I'm working on a large lang
 
 - GitHub: [github.com/harshkad](https://github.com/harshkad/)
 - LinkedIn: [linkedin.com/in/harshkad](https://www.linkedin.com/in/harshkad/)
+- LeetCode: [leetcode.com/u/Harsh-Kadiyan/](https://leetcode.com/u/Harsh-Kadiyan/)
 - Email: [hello.harshkd@gmail.com](mailto:hello.harshkd@gmail.com)
